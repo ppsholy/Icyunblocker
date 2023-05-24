@@ -10,7 +10,7 @@
 <h1></h1>
 <h2>deployment</h2>
 
-1. Make an account on <a href="https://render.com/">render</a>, if you already have one go to your <a href="https://dashboard.render.com/">Render Dashboard</a>
+1. Make an account on <a href="https://render.com/">Render</a>, if you already have one go to your <a href="https://dashboard.render.com/">Render Dashboard</a>
 
 3. Click on New
 
